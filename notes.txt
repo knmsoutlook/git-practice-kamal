@@ -1,0 +1,5 @@
+What is DevOps?
+DevOps is a set of practice and tools that aimto improveb/w SW dev and IT Ops team.
+
+What is Git?
+Git is a distributed version control system (VCS) used to track changes in source code during software development.
